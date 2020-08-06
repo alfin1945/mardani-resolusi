@@ -1,6 +1,8 @@
 rencana selanjutnya mardani
 
 -javascript
+  =ES6
+  =Framwork javascript
 -PHP Framwork
 -Interview
 -Konten
